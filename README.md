@@ -1,7 +1,5 @@
 # Frontend Mentor - Crowdfunding product page
 
-![Design preview for the Crowdfunding product page coding challenge](./design/desktop-preview.jpg)
-
 ## The challenge
 
 The challenge is to build out this crowdfunding product page and get it looking as close to the design as possible.
